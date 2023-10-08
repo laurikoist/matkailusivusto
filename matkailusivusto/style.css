@@ -1,0 +1,37 @@
+body, h1, h2, p, ul, li {
+    margin: 14;
+    padding: 14;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b1ca2273;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1d10d49c;
+    color: #c4b52e;
+    text-align: center;
+    padding: 15px;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 2%;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #2182b959;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #ffffff;
+    padding: 10px;
+}
